@@ -1,1 +1,1 @@
-Removed saved datasets from repo since they were too large to write to github. Uncommenting and running the first 3 blocks of section 2 should download and save train/test datasets to the appropriate directory. 
+Removed saved datasets from repo since they were too large to write to github, so CS260_Project_Files/Datasets will be empty. Uncommenting and running the first 3 blocks of section 2 should download and save train/test datasets to the appropriate directory. 
