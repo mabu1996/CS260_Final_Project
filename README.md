@@ -178,3 +178,4 @@ class CIFAR100Augment(torchvision.datasets.CIFAR100):
 Follow the steps here to correctly download and format TinyImageNet: https://github.com/tjmoon0104/pytorch-tiny-imagenet/
 # CS260_Final_Project
 # CS260_Final_Project
+# CS260_Final_Project
